@@ -10,7 +10,7 @@ REview = Flask(__name__)
 CORS(REview)  # Enable CORS for cross-origin requests
 
 # Set up OpenAI API key
-openai.api_key = "your_openai_api_key"
+openai.api_key = "sk-...CqEA"
 
 # Database setup
 def init_db():
